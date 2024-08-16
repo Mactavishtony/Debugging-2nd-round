@@ -1,0 +1,45 @@
+1.Given num, the array-form of an integer, and an integer k, Sum tha array and value of K then return the total value in  array-form.
+Note: Don't use built in functions 
+
+
+Example 1:
+Input: num = [1,2,0,0], k = 34
+Output: [1,2,3,4]
+Explanation: 1200 + 34 = 1234
+
+Example 2:
+Input: num = [2,7,4], k = 181
+Output: [4,5,5]
+Explanation: 274 + 181 = 455
+
+Example 3:
+Input: num = [2,1,5], k = 806
+Output: [1,0,2,1]
+Explanation: 215 + 806 = 1021
+
+2.Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+
+
+Example 1:
+Input: nums = [2,2,1]
+Output: 1
+
+Example 2:
+Input: nums = [4,1,2,1,2]
+Output: 4
+
+
+3.Given a string array words, return an array of repeated characters that show up in all strings. You may return the answer in any order.
+
+
+Example 1:
+Input: words = ["duck","kid"]
+Output: ["k","d"]
+
+Example 2:
+Input: words = ["cool","lock","cook"]
+Output: ["c","o"]
+
+
+Select Anyone and Finish it as soon as possible
+use any language to get the expected output
